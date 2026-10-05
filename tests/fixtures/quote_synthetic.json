@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "contract": "Twelve Data /quote?symbol=USD/KRW&interval=1day",
+  "payload": {
+    "symbol": "USD/KRW",
+    "interval": "1day",
+    "close": "1343.87",
+    "previous_close": "1340.12",
+    "change": "3.75",
+    "percent_change": "0.27982569",
+    "timestamp": 1791158400,
+    "is_market_open": true,
+    "last_quote_at": 1791202500
+  }
+}

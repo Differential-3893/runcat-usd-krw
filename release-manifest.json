@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "sha256": {
+    ".github/workflows/ci.yml": "f288d58585413a268ce0724ab9787997aa8b19f611681372ee18b31eb25e91da",
+    ".gitignore": "546d99e5f37e6a9196d3a33091049885c27eb2c6fc5986317710fb72f812716c",
+    "LICENSE": "79331b0e1446aa9236659495058b77776d127905b39c5dec1d92e14d35ff080a",
+    "README.md": "6ad55b6c18d988e9d4214b5cb024e0d9e95331497f3465ed1c38517b3673429f",
+    "START_HERE_KO.md": "30a87e6e8fd2a9bd637bc3fff65c771cda9abdf8c6f91f4c5ac8fc533742037f",
+    "apply_local.sh": "28c266932bbaf93c4403b50de6140ff5095a7ec94261c3620967f650131495fa",
+    "install.sh": "eeeae3352ef802014e5e76e5747a1c2ac1decc353ef3d74cf04f0274e1e11461",
+    "uninstall.sh": "4f7d873c38aad9b17a49f673b078c562fb8b0d45a25e0dea8891256774e19159",
+    "update-fx.py": "ba0a6b330fcc7a95d2b8b8ba249a33b35364d053ec2e324b85081b0f5e7f3639",
+    "publish_github.py": "f045291984605020bd9da2e7a16a4e0fc376214aefdc36593cb8481a534b2843",
+    "scripts/manage_install.py": "4d64fb9def0372801461a816f6a823f07fb1493eda31f834fd49f82cce7b9a51",
+    "docs/DATA_CONTRACT.md": "b5a6b241fb5e0720fe29ab782c39069b6cdcd768a6d12a6e98cd86c86bd5846f",
+    "docs/MAINTENANCE.md": "602973abf11cbbea8aac9c2ac10ff5a677b4bd31cfede2266f5dacde74fdff76",
+    "tests/common.py": "59a6716bf7ac1e1c7f515cc08b4b3856066e043d45d12efaa473b69e26dfcbfc",
+    "tests/test_fx.py": "a82d10e9fcdf0c9fe465f9954db6a6aba32345d0661fe83628bb1c50f97459df",
+    "tests/test_install.py": "1cce7ced542e71e52b89205651e09061a69429571755c2a9c6d6aff9d9f052db",
+    "tests/test_publish.py": "28d61a0b257d3ec969920df1c97f920ddf4cdf26f93258b377be0272729115a5",
+    "tests/test_release.py": "cd3a4040f78fd4f4f7bed8779f8db44d659f0534879f6a413d9461e8d3882e86",
+    "tests/fixtures/quote_synthetic.json": "1965749935a1284fe9581d03e81ee7500f75a556b3fb62a815fc4426a739bdcb"
+  }
+}

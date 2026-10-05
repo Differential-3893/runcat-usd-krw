@@ -1,0 +1,17 @@
+# Real credentials and local configuration are never source files.
+api-key
+api-key.*
+*.key
+.env
+.env.*
+*.pem
+# Local generated observations, logs, backups and caches
+usd-krw.json
+*.log
+*.lock
+backups/
+.runcat/
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
